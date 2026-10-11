@@ -1,0 +1,7 @@
+# _config.yml
+title: "Data Science Cookbook"
+author: "HAW Kiel, Master Data Science, Programming Class"
+
+exclude_patterns:
+  - .venv/**
+  - template/**

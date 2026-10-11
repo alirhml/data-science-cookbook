@@ -1,0 +1,12 @@
+# Build output of Jupyter Book
+_build/
+
+# Editor and operating system files
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Python
+.venv/
+__pycache__/
+.ipynb_checkpoints/
