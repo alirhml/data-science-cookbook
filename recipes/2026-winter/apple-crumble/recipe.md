@@ -18,5 +18,13 @@ A warm, buttery crumble over soft cinnamon apples. Quick to make, with ingredien
 - 1 pinch of salt
 
 ## Instructions
-- Step 1
-- Step 2
+- Preheat the oven to 180 °C (fan oven: 160 °C).
+- Peel and core the apples, cut them into small pieces, and mix them with lemon juice, cinnamon and 2 tbsp sugar. Spread them in a baking dish.
+- Rub flour, butter, 80 g sugar and salt between your fingers until it forms crumbs. Don't knead it into a dough.
+- Spread the crumbs evenly over the apples.
+- Bake for about 35 minutes, until the crumble is golden brown.
+- Let it cool for 5 minutes and serve warm, ideally with vanilla ice cream or custard.
+
+## Hints and Tricks
+- Sour apples work best: the contrast with the sweet crumble is the point.
+- For extra crunch, add 30 g of chopped nuts or oats to the crumble.
