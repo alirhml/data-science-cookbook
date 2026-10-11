@@ -28,3 +28,4 @@ A warm, buttery crumble over soft cinnamon apples. Quick to make, with ingredien
 ## Hints and Tricks
 - Sour apples work best: the contrast with the sweet crumble is the point.
 - For extra crunch, add 30 g of chopped nuts or oats to the crumble.
+- You can use other fruits as well, e.g. plums.
