@@ -16,7 +16,7 @@ Out of the Jalapeños, which is not easy to find but easy to substitute for othe
 - 1 Can of Beans (Kidney or Black) 
 - 1/4 Medium Onion
 - 1 Garlic Clove
-- 10 ml Milk
+- 20 to 50 ml Milk
 - 2 Tbps Butter
 
 ### Sauce
@@ -31,7 +31,33 @@ Out of the Jalapeños, which is not easy to find but easy to substitute for othe
 - 3 Breadrolls (Brötchen)
 - 100 g Cheese, any melting cheese would make it.
 
+## Tools and Kitchen Aids
+- Small Pot
+- Sieve
+- Potatoe Masher or Blender
+- Oven
+- Bread Knive
+- Cutting Board
+- Bowl
+- Metal Table Spoon
 
 ## Instructions
-- Step 1
-- Step 2
+### Beans
+- Step 1: Open the can and put the beans in the sieve. 
+- Step 2: Rise the beans under the faucet with cold water and let to drain.
+- Step 3: Cut the onion and garlic clove into small squares/pieces.
+- Step 4: Put the pot in medium heat and wait until is warm, then add the butter; do not let it burn.
+- Step 5: Once the butter is melt, add the onion. Wait until beggins to get brwon.  Then add the garlic.
+- Step 6: Look into the garlic, once it is soft and beggins to get brown add the beans and the milk.
+- Step 7: Smash the beans with the potatoe masher untill all the beens are smashed. If the mixture is too dry, add more milk. It must not be a liquid, but a paste that you can steer.
+- Step 8: ***Steer and Steer*** You need to continously, not with effort, but continously stirr the mix for aprox 5 min. Otherwise the beans will stick to the pot's bottom and will burn out. It is suggested to use a metal table spoon. After 5 minutes, turnoff the heat and let the beans rest. Afterwards, steer from time to time. Don't let the beans burn. 
+- Step 9: Pre-heat the oven to 175 °C
+
+### Pico de Gallo
+- Step 10: Prepare the sauce. Cut in small pieces the onion and the tomatoe. Put them in a bowl. Wash the corianda and cut into small pieces. Add it to the bowl. Do the same to the Jalapeño or chilli if you are putting some. Add the juice of the lime. Add salt and paper to taste.
+### Main Dish 
+- Step 11: Cut the bread into halfs and remove part of the internal bread crumb. 
+- Step 12: To each half, add between 2 and 3 tablespoons of beens. Spread them through the bread. 
+- Step 13: Put the cheese on top of the bread.
+- Step 14: Place the molletes a tray and backe them between 5 and 8 min. Take them out once the cheese has melted and beggins to get brown.
+- Step 15: Take them out. Serve them in a plate and topp them with the pico de gallo.
