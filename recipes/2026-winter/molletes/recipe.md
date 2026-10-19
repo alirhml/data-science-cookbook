@@ -12,8 +12,25 @@ Short Description of the dish, and why it's special for you.
 - Servings: 5
 
 ## Ingredients
-- 1 kg Butter 
-- 10 g Salt
+### Beans
+- 1 Can of Beans (Kidney or Black) 
+- 1/4 Medium Onion
+- 1 Garlic Clove
+- 10 ml Milk
+- 2 Tbps Butter
+
+### Sauce
+- 2 Tomatoes
+- 1/2 Medium Onion 
+- 5 g Corianda
+- 0 to 2 Jalapeños, depends on how spicy it is and how much chilli you eat.
+- 1/2 Lime or Lemon, Lime is prefeer. 
+- Salt and Papper to taste.
+
+### Main Dish
+- 3 Breadrolls (Brötchen)
+- 100 g Cheese, any melting cheese would make it.
+
 
 ## Instructions
 - Step 1
