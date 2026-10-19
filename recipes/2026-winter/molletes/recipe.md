@@ -1,7 +1,7 @@
 # Template
-Molletes are a traditional mexican dish. Normally eaten for brakfast or dinner. Original made from leftovers, today are made fresh. Several versions exist, from the basic to enhanced with mushrooms, sausages and ham. Today we are making the basic version. It is made out of brad, beans, cheese and a souce compose of fresh tomato, onion, jalapeño chilli and corianda.
+Molletes are a traditional mexican dish. Normally eaten for brakfast or dinner. Original made from leftovers, today are made fresh. Several versions exist, from the basic to enhanced with mushrooms, sausages and ham. Today we are making the basic version. It is made out of brad, beans, cheese and a souce compose of fresh tomato, onion, jalapeño chilli and corianda named *Pico de Gallo*
 
-Out of the Jalapeños, which is not easy to find but easy to substitute for other chilli, the ingredients are woldwide available to find. Being an easy homesick remedie. If you do not eat chilli, you can skip it. The tomato and onion freshness will be enough. 
+Out of the Jalapeños, which is not easy to find but easy to substitute for other chilli, the ingredients are woldwide available. Being an easy homesick remedie. If you do not eat chilli, you can skip it. The tomato, corianda and onion freshness will be enough. 
 
 ![Alternative Title for your Image](image.jpg)
 
