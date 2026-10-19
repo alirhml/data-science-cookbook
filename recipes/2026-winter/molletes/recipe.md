@@ -3,7 +3,7 @@ Molletes are a traditional Mexican dish. Normally eaten for breakfast or dinner.
 
 Out of the Jalapeños, which are not easy to find but easy to substitute for other chili, the ingredients are worldwide available. Being an easy homesick remedies. If you do not eat chili, you can skip it. The tomato, coriander and onion freshness will be enough. 
 
-![Alternative Title for your Image](image.jpg)
+![Create a plate of mexican molletes](image.jpeg)
 
 **Provided by:** Erick Cantu
 
