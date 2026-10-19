@@ -18,3 +18,12 @@ Bolognese recipe by my grandma to feed me and my siblings fast and easy. Kids di
 - 1 slightly heaped tsp black pepper
 - 2 tsp bouillon powder
 - Water as needed
+
+## Instructions
+- Slice onions in half and put them in a large pot with half of the pickle brine and the halved onions.
+- Purée the pickle-onion mixture until no chunks are left.
+- Fry the meat in small batches in lard over high heat and add it to the large pot.
+- Add the tomato paste, olive oil, mustard, pepper and bouillon powder.
+- Add water and Stir until mixed. Add the bacon and let it simmer.
+- Let the sauce simmer on low heat. The longer, the better!
+- Add more water if longer cooking, oil or spices if needed.
