@@ -6,7 +6,7 @@ This is a recipe for vegan cinnamon buns. I especially like to make them in autu
 **Provided by:** Finja ([original recipe](https://veggie-einhorn.de/saftige-vegane-zimtschnecken/))
 
 ## Stats
-- Cooking Time: 1h 55min
+- Total Time: 1h 55min
 - Servings: 12 cinnamon buns
 
 ## Ingredients
