@@ -1,9 +1,9 @@
 # Shakshuka
 I love breakfast and shakshuka is a beatiful way to start the day.
 
-![Alternative Title for your Image](image.jpg)
+![Shakshuka made last week](shakshuka.jpg)
 
-**Provided by:** Your Name (or pseudonym)
+**Provided by:** Florian
 
 ## Stats
 - Cooking Time: ...
