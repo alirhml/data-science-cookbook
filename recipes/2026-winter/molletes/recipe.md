@@ -8,8 +8,8 @@ Short Description of the dish, and why it's special for you.
 **Provided by:** Erick Cantu
 
 ## Stats
-- Cooking Time: ...
-- Servings: ...
+- Cooking Time: 30 min
+- Servings: 5
 
 ## Ingredients
 - 1 kg Butter 
