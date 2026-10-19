@@ -33,5 +33,13 @@ Fresh and authentic Asian taste
 - 2 tbsp vegetable oil
 
 ## Instructions
-- Step 1
-- Step 2
+1. Cut chicken into cubes. Mix with grated ginger, garlic, soy sauce, honey and 1 tbsp oil. Marinate for 15 minutes.
+2. Rinse rice. Bring coconut milk, water and salt to a boil, add rice and simmer covered on low heat for 15 minutes.
+3. Cut peppers into strips and fry in 1 tbsp oil for 5 minutes. Slice spring onions.
+4. Thread chicken onto skewers and fry for 8–10 minutes until cooked through. Add the leftover marinade for the last 2 minutes.
+5. Stir lime zest and juice into the rice. Serve with skewers, peppers and spring onions.
+
+## Hints and Tricks
+
+- Marinate longer for more flavour.
+- Add chili if you like it spicy.
