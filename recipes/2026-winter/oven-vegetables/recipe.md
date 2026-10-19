@@ -25,5 +25,8 @@ Oven-roasted vegetables are a simple, colorful dish made by roasting a mix of fr
 
 
 ## Instructions
-- Step 1
-- Step 2
+- Step 1: Preheat the oven to 200°C (400°F)
+- Step 2: Wash and chop your vegetables into bite-sized pieces
+- Step 3: Place them in a baking dish, drizzle with olive oil, and season with salt, pepper, paprika powder and your favorite herbs
+- Step 4: Roast for 25–35 minutes, stirring halfway through, until tender and lightly browned
+- Step 5: Serve warm and enjoy!
