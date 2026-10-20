@@ -32,3 +32,17 @@ Also:
 - oil for the baking dish
 - lasagna sheets (no pre-cooking required)
 - 200 g Gouda (grated)
+
+
+## Instructions
+Step 1
+Coarsely grate the zucchini. Peel and dice the tomatoes. Chop the mushrooms into small pieces. Dice the onion.
+
+Step 2
+Sauté the diced onion in oil briefly. Sprinkle the flour over it and let it brown slightly. Mix in the zucchini, mushrooms, and tomatoes. Season the mixture generously with the spices and let it simmer for 4–5 minutes. Stir in the cream.
+
+Step 3
+Lightly grease a baking dish with oil. Spread a thin layer of sauce on the bottom. Layer lasagna noodles, cheese, and sauce alternately. The top layer should be sauce. Sprinkle generously with cheese.
+
+Step 4
+Bake the lasagna on the middle rack of an oven preheated to 200 °C (top/bottom heat) for about 35 minutes.
