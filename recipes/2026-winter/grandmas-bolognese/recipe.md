@@ -27,3 +27,6 @@ Bolognese recipe by my grandma to feed me and my siblings fast and easy. Kids di
 - Add water and Stir until mixed. Add the bacon and let it simmer.
 - Let the sauce simmer on low heat. The longer, the better!
 - Add more water if longer cooking, oil or spices if needed.
+
+## side note
+you can change the ground meat to vegan ground meat, That's very delicious, too!
