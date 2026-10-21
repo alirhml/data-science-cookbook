@@ -1,5 +1,5 @@
 # Mexican Molletes 
-Molletes are a traditional Mexican dish. Normally eaten for breakfast or dinner. Original made from leftovers, today are fresh made. Several versions exist, with mushrooms, sausages or ham. Today we are making the basic version. It is made out of bread, beans, cheese and a sauce compose of fresh tomato, onion, jalapeño chili and coriander named *Pico de Gallo*
+Molletes are a traditional Mexican dish. Normally eaten for breakfast or dinner. Original made from leftovers, today are fresh made. Several versions exist, with mushrooms, sausages or ham. Today we are making the basic version. They are made out of bread, beans, cheese and a sauce compose of fresh tomato, onion, jalapeño chili and coriander named *Pico de Gallo*
 
 Out of the Jalapeños, which are not easy to find but easy to substitute for other chili, the ingredients are worldwide available. Being an easy homesick remedies. If you do not eat chili, you can skip it. The tomato, coriander and onion freshness will be enough. 
 
