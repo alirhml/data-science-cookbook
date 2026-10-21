@@ -49,10 +49,10 @@ Out of the Jalapeños, which are not easy to find but easy to substitute for oth
 - Once the butter is melt, add the onion. Wait until begins to get brown.  Then add the garlic.
 - Once the garlic is soft and begins to get brown add the beans and 20 ml of milk.
 - Smash the beans with the potato masher until no full beans remain. If the mixture is too dry, add more milk. It must not be a liquid, but a paste that you can steer.
-- ***Steer and Steer*** This is the critical step. You need to continuously, not with effort, but continuously stir the mix for approx 5 min after it began to boil. Otherwise the beans will stick to the pot's bottom and will get burn. It is suggested to use a metal table spoon. After 5 minutes, turnoff the heat and let the beans to rest. Steer from time to time. Don't let the beans get stuck into the pot.
+- ***Steer and Steer*** This is the critical step. You need to continuously, not with effort, but continuously stir the mix for approx 7 min. Otherwise the beans will stick to the pot's bottom and will get burn. It is suggested to use a metal table spoon. After 7 minutes, turnoff the heat and let the beans to rest. Steer from time to time. Don't let the beans get stuck into the pot.
 
 ### Pico de Gallo
-- Preheat the oven to 175 °C
+- Lets use time wisely and preheat the oven to 175 °C
 - Cut in small pieces the onion, the tomato and the Jalapeño or chili if you are putting some, and the coriander too. Mix everything with the juce of the lime in the boll. Put salt and paper to taste. Give a final mix.
 
 ### Main Dish 
