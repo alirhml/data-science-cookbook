@@ -2,6 +2,8 @@
 Easy lasagne that uses tortilla wraps instead of pasta sheets, layered with a creamy, spicy sauce of ground meat, beans, corn and tomatoes.
 It's also easy to make vegetarian. Just swap the ground meat for a vegetarian alternative or an extra can of beans.
 
+<img src="enchilada_lasagne.jpg" alt="Enchilada Lasagne" width="500">
+
 **Provided by:** René \
 **Based on:** [Mells mexikanische Enchilada-Lasagne on Chefkoch.de](https://www.chefkoch.de/rezepte/1958641318570605/Mells-mexikanische-Enchilada-Lasagne.html)
 
