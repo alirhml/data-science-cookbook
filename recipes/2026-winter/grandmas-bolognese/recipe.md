@@ -10,7 +10,7 @@ Bolognese recipe by my grandma to feed me and my siblings fast and easy. Kids di
 ## Ingredients
 - 1 kg ground meat
 - 2 medium to large onions
-- 5 pickle sticks from the jar (plus half of the pickle brine)
+- 2 pickle sticks from the jar (plus a quarter of the pickle brine)
 - 3 chunks of smoked bacon
 - 140 g tomato paste
 - 3 dashes of olive oil
