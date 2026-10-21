@@ -43,27 +43,30 @@ Out of the Jalapeños, which are not easy to find but easy to substitute for oth
 
 ## Instructions
 ### Beans
-- Open the can and put the beans in the sieve. 
-- Rinse the beans under the faucet with cold water and let them to drain.
+- Open the beans' can,  put them in the sieve and rinse them under the faucet with cold water until the water is cristal clear. Let them to drain.
 - Cut the onion and garlic clove into small squares/pieces.
 - Put the pot in medium heat and wait until is warm, then add the butter; do not let it burn.
 - Once the butter is melt, add the onion. Wait until begins to get brown.  Then add the garlic.
-- Look into the garlic, once it is soft and begins to get brown add the beans and 20 ml of milk.
-- Smash the beans with the potato masher until all the beans are smashed. If the mixture is too dry, add more milk. It must not be a liquid, but a paste that you can steer.
-- ***Steer and Steer*** You need to continuously, not with effort, but continuously stir the mix for approx 5 min. Otherwise the beans will stick to the pot's bottom and will burn out. It is suggested to use a metal table spoon. After 5 minutes, turnoff the heat and let the beans rest. From now on, steer from time to time. Don't let the beans get stuck to the pot.
-- Preheat the oven to 175 °C
+- Once the garlic is soft and begins to get brown add the beans and 20 ml of milk.
+- Smash the beans with the potato masher until no full beans remain. If the mixture is too dry, add more milk. It must not be a liquid, but a paste that you can steer.
+- ***Steer and Steer*** This is the critical step. You need to continuously, not with effort, but continuously stir the mix for approx 5 min after it began to boil. Otherwise the beans will stick to the pot's bottom and will get burn. It is suggested to use a metal table spoon. After 5 minutes, turnoff the heat and let the beans to rest. Steer from time to time. Don't let the beans get stuck into the pot.
 
 ### Pico de Gallo
-- Prepare the sauce. Cut in small pieces the onion, the tomato and the Jalapeño or chili if you are putting some, and the coriander too. Put everything in the bowl. Add the juice of the lime, and salt and paper to taste. Finally mix everything.
+- Preheat the oven to 175 °C
+- Cut in small pieces the onion, the tomato and the Jalapeño or chili if you are putting some, and the coriander too. Mix everything with the juce of the lime in the boll. Put salt and paper to taste. Give a final mix.
+
 ### Main Dish 
 - Cut the bread into half and remove part of the internal bread crumbs. 
 - To each half, add between 2 and 3 tablespoons of beans. Spread them through the bread. 
-- Put the cheese on top of the bread.
-- Place the molletes on tray and bake them between 5 and 8 min. Take them out once the cheese has melted or begins to get brown.
+- Put the cheese on top of the bread and place them on a backing tray. Bake them between 5 and 8 min. Take them out once the cheese has melted or begins to get brown.
 - Serve them in a plate and add the the pico de gallo just before you eat them. 
 
 ¡Buen Provecho!, Enjoy!, Guten Appetit!
 
+## Hints and Tricks
+
+- Do not eat them immediately after are out of the oven. Even if the cheese looks it has cold down. Wait a couple of minutes, the beans may burn your mouth.
+- If you have, add guacamole to them. See the image for a reference. 
 
 
-Image created with Nano Banana 2: "Create a plate of mexican molletes"
+Image created with Nano Banana 2. Prompt:"Create a plate of mexican molletes"
