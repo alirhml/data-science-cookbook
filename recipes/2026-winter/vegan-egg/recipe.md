@@ -21,5 +21,9 @@ This is a recipe for vegan scrambled eggs. It's made of tofu and for this delici
 - A handful of chives
 
 ## Instructions
-- Step 1
-- Step 2
+- Cut the onions and the tomatoes (and whatever vegetables you like) and fry them in a pan with a little oil.
+- Add a little bit of agave syrup for sweetness
+- Crumble the tofu into the pan and fry it together with the legumes
+- After about 5-10 minutes, add the soy yoghurt and the spices and stir well.
+- Right before serving add kala namak. Be careful: it is very salty, don't add any other salt. This is where the eggy taste comes from! 
+- Serve it with chopped chives sprinkled on top.
