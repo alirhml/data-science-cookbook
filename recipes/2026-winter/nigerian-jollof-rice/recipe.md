@@ -1,6 +1,8 @@
 # Nigerian Jollof Rice
 Nigerian Jollof is a delicious West African dish cooked in a rich, spicy tomato and pepper sauce. Cooked in different ways, but this version uses parboiled rice, well seasoned stock, and slow cooking to develop a deep flavor with smoky finish.
 
+![Nigerian Jollof Rice](nigeria-jollof-rice.jpg)
+
 
 **Provided by:** Stanley
 
