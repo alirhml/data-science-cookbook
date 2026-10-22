@@ -44,3 +44,8 @@ Nigerian Jollof is a delicious West African dish cooked in a rich, spicy tomato 
 8. **Develop the smoky finish:** When the rice is almost tender, allow it to finish cooking over very low heat. Keep the pot covered so the rice steams evenly.
 9. **Rest and serve:** Remove the bay leaves, add butter if desired, and gently fluff the rice with a fork. Let it rest, covered, for 5 minutes before serving.
 
+
+**Serving suggestion:** Serve hot with fried plantain, grilled chicken, beef, or a fresh salad.
+
+**Tip:** Scotch bonnet peppers are very hot. Handle them carefully, avoid touching your eyes, and adjust the quantity to your preference. Cooking time and liquid needs vary by rice brand and pot, so check the rice as it cooks.
+
