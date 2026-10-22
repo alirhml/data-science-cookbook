@@ -10,8 +10,15 @@ This is a recipe for vegan scrambled eggs. It's made of tofu and for this delici
 - Servings: 2 (when served as a side)
 
 ## Ingredients
-- 1 kg Butter 
-- 10 g Salt
+- 1 block of plain tofu (appox. 200g)
+- Vegetables of your choice (I like using tomatoes and onions)
+- 1 tbsp oil for frying
+- 2 tbsp soy yoghurt 
+- 1 tsp agave syrup
+- 1 tsp sweet paprika
+- ½ tsp turmeric (for the colour)
+- ½ tsp kala namak (Indian black salt)
+- A handful of chives
 
 ## Instructions
 - Step 1
