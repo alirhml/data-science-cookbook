@@ -1,13 +1,13 @@
 # Vegan Scrambled Eggs
 This is a recipe for vegan scrambled eggs. It's made of tofu and for this delicious meal no animals are harmed or exploited. 
 
-![Alternative Title for your Image](image.jpg)
+![Vegan scrambled eggs with bread and fruits from my birthday last year](image.jpg)
 
-**Provided by:** Your Name (or pseudonym)
+**Provided by:** Rikki 
 
 ## Stats
-- Cooking Time: ...
-- Servings: ...
+- Cooking Time: 15-20 minutes
+- Servings: 2 (when served as a side)
 
 ## Ingredients
 - 1 kg Butter 
