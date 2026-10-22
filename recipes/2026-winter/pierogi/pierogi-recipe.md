@@ -40,7 +40,7 @@ Polish pierogi are dumplings filled with mashed potatoes and melted Cheddar chee
 
 4. **Prepare the filling.** While the potatoes are still hot, mash them with the shredded Cheddar cheese and processed cheese sauce. Season with onion salt, salt, and pepper to taste. Set aside to cool.
 
-5. **Roll out the dough.** Divide the dough into two equal portions. On a lightly floured surface, roll out one portion at a time to approximately ⅛–¼ inch thick.
+5. **Roll out the dough.** Divide the dough into two equal portions. On a lightly floured surface, roll out one portion at a time to approximately 1/4 inch thick.
 
 6. **Cut the circles.** Use a round cookie cutter, pierogi cutter, or drinking glass to cut circles about 3–4 inches in diameter. Gather and reroll any leftover dough.
 
