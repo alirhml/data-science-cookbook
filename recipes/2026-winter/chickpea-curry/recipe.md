@@ -31,5 +31,13 @@ A healthy Indian-inspired chickpea curry packed with vitamins and plant-based pr
 
 
 ## Instructions
-- Step 1
-- Step 2
+**Step 1:** Heat the coconut oil in a large pot over medium heat. Add the cumin seeds and let them sizzle briefly.
+**Step 2:** Add the chopped onions and cook until they become soft and golden.
+**Step 3:** Stir in the chopped garlic and grated ginger. Cook for about a minute until fragrant.
+**Step 4:** Add the chopped tomatoes, ground coriander, turmeric, chili powder, and salt. Cook for several minutes until the tomatoes soften and form a thick, aromatic sauce.
+**Step 5:** Add the chickpeas and kidney beans. Stir well to coat them in the spice mixture.
+**Step 6:** Pour in about 250–350 ml of water, bring everything to a gentle simmer, and cook for around 10 minutes. Stir occasionally, adding more water if needed.
+**Step 7:** Cut the broccoli into small florets and add them to the pot. Simmer for another 5–8 minutes, until the broccoli is tender but still has some bite.
+**Step 8:** Stir in the spinach and let it wilt for 2–3 minutes.
+**Step 9:** Add the garam masala and mix well. Lightly mash a few chickpeas or kidney beans to thicken the sauce if desired. Taste and adjust the salt and chili powder.
+**Step 10:** Finish with a squeeze of lemon juice, if desired. Garnish with fresh coriander leaves if you enjoy their flavour. Serve hot with rice or naan.
