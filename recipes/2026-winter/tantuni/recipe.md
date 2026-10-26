@@ -54,4 +54,9 @@ Tantuni is a famous street food from Mersin, a city on the Mediterranean coast o
 - **Spiciness:** Isot (dark Urfa chili) gives a smoky taste; pul biber is fruitier. You can find both in Turkish supermarkets in Kiel.
 - **Leftovers:** The boiled meat can be kept in the fridge for 2 days, so you can boil a bigger batch and fry fresh portions whenever you want.
 
+## Variations
+- **Chicken tantuni:** Use 500 g chicken thighs instead of beef. Skip the boiling step and fry the chicken strips directly for about 10 minutes.
+- **Vegetarian tantuni:** Use 500 g mushrooms (cut into strips) or crumbled firm tofu. Fry until golden and season the same way.
+- **Tantuni bowl:** Instead of wrapping, serve the meat and salad on a plate with bulgur pilaf or rice.
+
 **Afiyet olsun!** (Turkish for "Enjoy your meal!")
