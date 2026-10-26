@@ -1,7 +1,6 @@
 # Qutab (Azerbaijani Stuffed Flatbread)
 Qutab is a thin, half-moon shaped flatbread from Azerbaijan, filled with fresh herbs and cooked in a dry pan. It is quick, vegetarian and tastes like home to me.
 
-![Qutab with herbs, served with yogurt and sumac](image.jpg)
 
 **Provided by:** Ali
 
