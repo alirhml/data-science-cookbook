@@ -8,6 +8,8 @@ Tantuni is a famous street food from Mersin, a city on the Mediterranean coast o
 
 - Cooking Time: 45 minutes (15 min prep, 30 min cooking)
 - Servings: 4 wraps
+- Difficulty: Easy
+- Diet: Contains meat (see Variations for a vegetarian option)
 
 ## Ingredients
 
